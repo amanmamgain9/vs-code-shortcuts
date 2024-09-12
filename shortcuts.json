@@ -1,0 +1,67 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+n",
+        "command": "explorer.newFile"
+    },
+    {
+        "key": "ctrl+x left",
+        "command": "workbench.action.focusLeftGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+left",
+        "command": "-workbench.action.focusLeftGroup"
+    },
+    {
+        "key": "ctrl+x right",
+        "command": "workbench.action.focusRightGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+right",
+        "command": "-workbench.action.focusRightGroup"
+    },
+    {
+        "key": "ctrl+x ctrl+f",
+        "command": "file-browser.open"
+    },
+    {
+        "key": "ctrl+x ctrl+x",
+        "command": "editor.action.clipboardCutAction"
+    },
+    {
+        "key": "ctrl+x",
+        "command": "-editor.action.clipboardCutAction"
+    },
+    {
+      "key": "ctrl+x up",
+      "command": "workbench.action.focusAboveGroup"
+    },
+    {
+      "key": "ctrl+k ctrl+up",
+      "command": "-workbench.action.focusAboveGroup"
+    },
+    {
+      "key": "ctrl+x down",
+      "command": "workbench.action.focusBelowGroup"
+    },
+    {
+      "key": "ctrl+k ctrl+down",
+      "command": "-workbench.action.focusBelowGroup"
+    },
+    {
+      "key": "ctrl+x 1",
+      "command": "workbench.action.splitEditor"
+    },
+    {
+      "key": "ctrl+\\",
+      "command": "-workbench.action.splitEditor"
+    },
+    {
+      "key": "ctrl+x 2",
+      "command": "workbench.action.splitEditorDown"
+    },
+    {
+      "key": "ctrl+k ctrl+\\",
+      "command": "-workbench.action.splitEditorDown"
+    }
+]
