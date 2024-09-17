@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Jo Light",
+    "editor.largeFileOptimizations": false,
+    "omnisharp.useModernNet": false,
+    "editor.inlineSuggest.enabled": true,
+    "settingsSync.ignoredSettings": [],
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#fff3c5",
+        "sideBar.foreground": "#333333",
+        "sideBarSectionHeader.background": "#F5DEB3",
+        "sideBarSectionHeader.foreground": "#333333",
+        "list.activeSelectionBackground": "#F5DEB3",
+        "list.activeSelectionForeground": "#333333",
+        "list.hoverBackground": "#FFE4B5",
+        "list.hoverForeground": "#333333",
+        "input.background": "#FFFAF0",
+        "input.foreground": "#333333",
+        "inputOption.activeBorder": "#DEB887",
+        "dropdown.background": "#FFFAF0",
+        "dropdown.foreground": "#333333",
+        "button.background": "#DEB887",
+        "button.foreground": "#333333",
+        "badge.background": "#DEB887",
+        "badge.foreground": "#333333",
+        "activityBar.background": "#F5DEB3",
+        "activityBar.foreground": "#333333",
+        "activityBarBadge.background": "#DEB887",
+        "activityBarBadge.foreground": "#333333"
+    }
+}
